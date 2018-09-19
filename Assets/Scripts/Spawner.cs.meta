@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3764d849d373fdd428af1808b5f29e6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PoleObj: {fileID: 4423734932314384, guid: 8386dba4f30d691428efab488be5ea77, type: 2}
+  - SphereObj: {fileID: 4120358877667192, guid: 5b89628d081d03d4d96a5b78044e22a7,
+      type: 2}
+  - GiantSphereObj: {fileID: 4361982054662560, guid: a1abb173d7841b34ab31e7f505a2e637,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
